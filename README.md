@@ -57,7 +57,6 @@ This project is a **Flask-based web application** that provides **encryption and
 ---
 
 ## **Contact for Freelance Work**  
-📩 **Email:** abh200731@gmail.com | abh200529@gmail.com  
-📞 **WhatsApp:** (+92) 3339176661  
+📩 **Email:** abh200529@gmail.com  
 
-Let me know if you need any changes! 🚀
+ONLY FOR LEARNING , HOW THINGS ARE WORKING.
